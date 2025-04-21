@@ -1,3 +1,14 @@
 <resources>
     <string name="app_name">BuzzBoard-Homepage</string>
+    <string name="favorites">Favorites</string>
+    <string name="profile">Profile</string>
+    <string name="home">Home</string>
+    <string name="messages">Messages</string>
+    <string name="add_post">Add Post</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="helloprofile">Profile</string>
+    <string name="hellomessages">Messages</string>
+    <string name="hellofavorites">Favorites</string>
+    <string name="helloadd_posts">Add Posts</string>
 </resources>
